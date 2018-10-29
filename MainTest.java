@@ -1,3 +1,7 @@
+// author @ Gabe Sanchez
+// AP Comp Sci Period 7
+// Dice Array
+// Create two dice objects, roll 1000 times, track # of times each outcome was rolled.
 
 public class MainTest 
 {
