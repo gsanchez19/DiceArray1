@@ -13,7 +13,6 @@ public class MainTest
 
 		int[] theCounter = new int[13];
 		
-		// boolean to indicate weather array has been filled or not.
 		
 		int doubleDice;
 		
@@ -57,11 +56,6 @@ public class MainTest
 			
 			System.out.println("Program check. Times rolled: " + programCheck);
 			
-		
-		//while(notFilled)
-		//{
-			//theDicer[count] = 
-			//count 
 	
 	
 	
